@@ -10,5 +10,6 @@ class Program{
     i = Convert.ToInt32(Console.ReadLine());
     i = calculcarre(i);
     Console.WriteLine($"Le carré de i est : {i} .");
+    Console.WriteLine("Trop bien");
   }
 }
